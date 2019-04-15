@@ -18,8 +18,8 @@ return [
 
         'db' => [
             'host' => '127.0.0.1',
-            'dbname' => 'adrenaline',
-            'port' => '3306',
+            'dbname' => 'Ticketone',
+            'port' => '8889',
             'user' => 'root',
             'pass' => 'root',
         ]
